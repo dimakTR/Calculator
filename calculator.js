@@ -210,7 +210,7 @@
         }
         
         // just from current directory for now, but it can be full url, for example http:/localhost/calculator.css
-        var cssHost = "./calculator.css";
+        var cssHost = "http://localhost/js/calculator.css";
         
         addCss(cssHost);
 
