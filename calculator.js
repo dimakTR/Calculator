@@ -245,7 +245,7 @@
     
 
 
-//Функция расчета
+
 function calculations() {
 var face = document.getElementById('face');
 	switch (b){
@@ -315,7 +315,7 @@ var face = document.getElementById('face');
 
 
 
-//--------------Кнопки--------------------
+//--------------Buttons--------------------
 function one() {
 var face = document.getElementById('face');
   if (face.value == "0"){
@@ -508,7 +508,7 @@ var face = document.getElementById('face');
 
 
 
-//-------------Равно и очистка-----------
+
 function equally() {
 	calculations();
 }
@@ -520,7 +520,7 @@ var face = document.getElementById('face');
 }
 
 
-//----------------------Действия--------------------
+
 
 function subtract() {
 var face = document.getElementById('face');
